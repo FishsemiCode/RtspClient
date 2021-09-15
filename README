@@ -1,0 +1,17 @@
+About
+=====
+RtspClient is a package offering a RTSP client which is based on
+gstreamer v1.16.2. It's designed for romote controller that is 
+supported by FishSemi Inc. It contains an Android app with an jni
+library that interacts with gstreamer libs and can work with both
+armv7 and arm64 archs. 
+
+Features
+=====
+1. Play rtsp video stream
+2. Push video stream to rtmp server
+3. Push video stream to rtsp server
+
+Dependencies
+====
+1. gstreamer v1.16.2

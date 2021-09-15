@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rtsp_source">Rtsp url:</string>
+    <string name="button_play">Play</string>
+    <string name="button_stop">Stop</string>
+    <string name="push_server">Push url:</string>
+    <string name="button_push">Push</string>
+    <string name="button_stop_push">Stop push</string>
+</resources>
